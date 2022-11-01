@@ -7,5 +7,5 @@
 int main(){
     // sayHello(); 
     printf("Hello World \n");
-    int a=10;
+     
 }
